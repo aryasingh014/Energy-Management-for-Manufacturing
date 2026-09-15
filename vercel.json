@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd enerops/frontend && npm install && npm run build",
-  "outputDirectory": "enerops/frontend/.next",
-  "framework": "nextjs"
-}
